@@ -1,0 +1,138 @@
+{
+  "sources": [
+    {
+      "url": "https://sololibros.org/libros-de-alquimia/",
+      "records": 42,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-astrologia/",
+      "records": 15,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-brujeria/",
+      "records": 17,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-budismo/",
+      "records": 42,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-chamanismo/",
+      "records": 21,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-eneagrama/",
+      "records": 18,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-hechizos/",
+      "records": 15,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-kabbalah/",
+      "records": 20,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-karma/",
+      "records": 17,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-magia-blanca/",
+      "records": 18,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-magia-negra/",
+      "records": 19,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-magia/",
+      "records": 15,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-numerologia/",
+      "records": 22,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-ocultismo/",
+      "records": 25,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-poder-mental/",
+      "records": 17,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-profecias/",
+      "records": 26,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-reencarnacion/",
+      "records": 18,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-registros-akashicos/",
+      "records": 14,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-regresiones/",
+      "records": 16,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-runas/",
+      "records": 11,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-suenos/",
+      "records": 20,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-tarot/",
+      "records": 18,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-telepatia/",
+      "records": 17,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-teosofia/",
+      "records": 19,
+      "error": null
+    },
+    {
+      "url": "https://sololibros.org/libros-de-videncia/",
+      "records": 20,
+      "error": null
+    },
+    {
+      "url": "https://infolibros.org/libro/el-kybalion-los-tres-iniciados/",
+      "records": 1,
+      "error": null,
+      "checked_with": "Web page inspection, not urllib"
+    }
+  ],
+  "unique_records": 495,
+  "duplicate_records_removed": 8,
+  "access_note": "Source pages fetched successfully. Individual PDF availability and rights not verified. Links go to source records, not hosted books."
+}
